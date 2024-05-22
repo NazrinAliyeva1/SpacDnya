@@ -23,6 +23,7 @@ public class AgencyController(SpacDnyaContext _context, IWebHostEnvironment _env
                 Description= p.Description,
                 Image =p.Image,
                 Name = p.Name,
+                Id = p.Id,
             }).ToListAsync());  
     }
     public IActionResult Create()
@@ -64,5 +65,36 @@ public class AgencyController(SpacDnyaContext _context, IWebHostEnvironment _env
         await _context.Agencies.AddAsync(agency);   
         await _context.SaveChangesAsync();
         return RedirectToAction(nameof(Index));
+    }
+
+    public async Task<IActionResult> Update(int? id)
+    {
+        if(id==null || id < 1) return BadRequest();
+        Agency agency = await _context.Agencies.FirstOrDefaultAsync(a=>a.Id==id);
+        if (agency is null) return NotFound();
+
+        UpdateAgencyVM updateVM = new UpdateAgencyVM
+        {
+            Description = agency.Description,
+            Image = agency.Image,
+            Name = agency.Name,
+
+        };
+        return View(updateVM);
+    }
+    [HttpPost]
+    public async Task<IActionResult> Update(int? id, UpdateAgencyVM updateVM)
+    {
+        if (id == null || id < 1) return BadRequest();
+        Agency existed = await _context.Agencies.FirstOrDefaultAsync(b=>b.Id==id);
+        if (existed is null) return NotFound();
+        
+        existed.Name= updateVM.Name;
+        existed.Description= updateVM.Description;
+        existed.Image= updateVM.Image;
+
+        await _context.SaveChangesAsync();
+        return RedirectToAction(nameof(Index));
+
     }
 }

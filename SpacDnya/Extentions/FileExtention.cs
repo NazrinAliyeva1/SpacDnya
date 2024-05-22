@@ -10,10 +10,10 @@
 
         public static async Task<string> SaveFileAsync(this IFormFile file, string path)
         {
-            string ext = Path.GetExtension(file.Name);
+            string ext = Path.GetExtension(file.FileName);
             string newName = Path.GetRandomFileName();
             await using FileStream fs = new FileStream(Path.Combine(path, newName + ext), FileMode.Create);
-            await fs.CopyToAsync(fs);
+            await file.CopyToAsync(fs);
             return newName + ext;
         }
     }

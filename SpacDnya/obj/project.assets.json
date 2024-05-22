@@ -8309,19 +8309,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ca.r214.08\\.nuget\\packages\\": {}
+    "C:\\Users\\99455\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ca.r214.08\\Desktop\\praktika ab204\\SpacDnya\\SpacDnya\\SpacDnya.csproj",
+      "projectUniqueName": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\SpacDnya.csproj",
       "projectName": "SpacDnya",
-      "projectPath": "C:\\Users\\ca.r214.08\\Desktop\\praktika ab204\\SpacDnya\\SpacDnya\\SpacDnya.csproj",
-      "packagesPath": "C:\\Users\\ca.r214.08\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ca.r214.08\\Desktop\\praktika ab204\\SpacDnya\\SpacDnya\\obj\\",
+      "projectPath": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\SpacDnya.csproj",
+      "packagesPath": "C:\\Users\\99455\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ca.r214.08\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\99455\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8341,6 +8341,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -8393,7 +8398,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

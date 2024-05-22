@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+@model UpdateAgencyVM
+
+<form method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label asp-for="Name">Name</label>
+        <input asp-for="Name" class="form-control">
+        <span asp-validation-for="Name"></span>
+
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description">Description</label>
+        <input asp-for="Description" class="form-control">
+        <span asp-validation-for="Description"></span>
+
+    </div>
+    <div class="mb-3">
+        <label asp-for="Image">Sekil</label>
+        <input asp-for="Image" accept="image/*" class="form-control">
+        <span asp-validation-for="Image"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

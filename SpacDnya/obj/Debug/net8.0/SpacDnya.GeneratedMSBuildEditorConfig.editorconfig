@@ -17,47 +17,51 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SpacDnya
 build_property.RootNamespace = SpacDnya
-build_property.ProjectDir = C:\Users\ca.r214.08\Desktop\praktika ab204\SpacDnya\SpacDnya\
+build_property.ProjectDir = C:\Users\99455\Desktop\SpacDnya\SpacDnya\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ca.r214.08\Desktop\praktika ab204\SpacDnya\SpacDnya
+build_property.MSBuildProjectDirectory = C:\Users\99455\Desktop\SpacDnya\SpacDnya
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ca.r214.08/Desktop/praktika ab204/SpacDnya/SpacDnya/Areas/Admin/Views/Agency/Create.cshtml]
+[C:/Users/99455/Desktop/SpacDnya/SpacDnya/Areas/Admin/Views/Agency/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWdlbmN5XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.08/Desktop/praktika ab204/SpacDnya/SpacDnya/Areas/Admin/Views/Agency/Index.cshtml]
+[C:/Users/99455/Desktop/SpacDnya/SpacDnya/Areas/Admin/Views/Agency/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWdlbmN5XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.08/Desktop/praktika ab204/SpacDnya/SpacDnya/Areas/Admin/Views/Shared/_Layout.cshtml]
+[C:/Users/99455/Desktop/SpacDnya/SpacDnya/Areas/Admin/Views/Agency/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWdlbmN5XFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/99455/Desktop/SpacDnya/SpacDnya/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.08/Desktop/praktika ab204/SpacDnya/SpacDnya/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/99455/Desktop/SpacDnya/SpacDnya/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.08/Desktop/praktika ab204/SpacDnya/SpacDnya/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/99455/Desktop/SpacDnya/SpacDnya/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.08/Desktop/praktika ab204/SpacDnya/SpacDnya/Views/Home/Index.cshtml]
+[C:/Users/99455/Desktop/SpacDnya/SpacDnya/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.08/Desktop/praktika ab204/SpacDnya/SpacDnya/Views/Shared/_Layout.cshtml]
+[C:/Users/99455/Desktop/SpacDnya/SpacDnya/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.08/Desktop/praktika ab204/SpacDnya/SpacDnya/Views/_ViewImports.cshtml]
+[C:/Users/99455/Desktop/SpacDnya/SpacDnya/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.08/Desktop/praktika ab204/SpacDnya/SpacDnya/Views/_ViewStart.cshtml]
+[C:/Users/99455/Desktop/SpacDnya/SpacDnya/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
