@@ -97,4 +97,13 @@ public class AgencyController(SpacDnyaContext _context, IWebHostEnvironment _env
         return RedirectToAction(nameof(Index));
 
     }
+    public async Task<IActionResult> Delete(int? id)
+    {
+        if (id == null) return BadRequest();
+        var cat = await _context.Agencies.FindAsync(id);
+        if (cat is null) return NotFound();
+        _context.Remove(cat);
+        await _context.SaveChangesAsync();
+        return RedirectToAction("Index");
+    }
 }

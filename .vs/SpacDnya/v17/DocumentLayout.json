@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\99455\\Desktop\\SpacDnya\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|C:\\Users\\99455\\Desktop\\SpacDnya\\spacdnya\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|C:\\Users\\99455\\Desktop\\SpacDnya\\spacdnya\\areas\\admin\\controllers\\agencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\areas\\admin\\controllers\\agencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|c:\\users\\99455\\desktop\\spacdnya\\spacdnya\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,14 +39,6 @@
       "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\dal\\spacdnyacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|C:\\Users\\99455\\Desktop\\SpacDnya\\spacdnya\\areas\\admin\\controllers\\agencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\areas\\admin\\controllers\\agencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|C:\\Users\\99455\\Desktop\\SpacDnya\\spacdnya\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Migrations\\20240523061305_Users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:SpacDnya\\Migrations\\20240523061305_Users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 202,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Areas\\Admin\\Views\\Agency\\Create.cshtml",
               "RelativeDocumentMoniker": "SpacDnya\\Areas\\Admin\\Views\\Agency\\Create.cshtml",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SpacDnya\\Controllers\\HomeController.cs",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "SpacDnyaContext.cs",
               "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\DAL\\SpacDnyaContext.cs",
               "RelativeDocumentMoniker": "SpacDnya\\DAL\\SpacDnyaContext.cs",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "FileExtention.cs",
               "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Extentions\\FileExtention.cs",
               "RelativeDocumentMoniker": "SpacDnya\\Extentions\\FileExtention.cs",
@@ -130,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "SpacDnya\\Views\\Account\\Login.cshtml",
@@ -142,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LoginVM.cs",
               "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\ViewModels\\Account\\LoginVM.cs",
               "RelativeDocumentMoniker": "SpacDnya\\ViewModels\\Account\\LoginVM.cs",
@@ -155,31 +155,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "AgencyController.cs",
               "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Areas\\Admin\\Controllers\\AgencyController.cs",
               "RelativeDocumentMoniker": "SpacDnya\\Areas\\Admin\\Controllers\\AgencyController.cs",
               "ToolTip": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Areas\\Admin\\Controllers\\AgencyController.cs",
               "RelativeToolTip": "SpacDnya\\Areas\\Admin\\Controllers\\AgencyController.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAgwGoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T05:28:51.585Z"
+              "WhenOpened": "2024-05-23T05:28:51.585Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "SpacDnya\\Views\\Account\\Register.cshtml",
               "ToolTip": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Views\\Account\\Register.cshtml",
               "RelativeToolTip": "SpacDnya\\Views\\Account\\Register.cshtml",
-              "ViewState": "AQIAACwAAAAAAAAAAAAAAEIAAABtAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADkAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T05:16:11.326Z"
+              "WhenOpened": "2024-05-23T05:16:11.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "SpacDnya\\Controllers\\AccountController.cs",
