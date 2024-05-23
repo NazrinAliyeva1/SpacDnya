@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oEBw4iS5+EL4EPg1VvwFYgUIP2DVW430+Raq59t2AwI=",
+  "Hash": "JzQEm4W+98MiLaTdXsznjCb8kKHmBQP6De5dfSiJHyY=",
   "Source": "SpacDnya",
   "BasePath": "_content/SpacDnya",
   "Mode": "Default",
@@ -12802,6 +12802,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\agncs\\1dvqabdd.t54.png"
+    },
+    {
+      "Identity": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\wwwroot\\imgs\\agncs\\34cld2um.lqp.png",
+      "SourceId": "SpacDnya",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\wwwroot\\",
+      "BasePath": "_content/SpacDnya",
+      "RelativePath": "imgs/agncs/34cld2um.lqp.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\agncs\\34cld2um.lqp.png"
     },
     {
       "Identity": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\wwwroot\\imgs\\agncs\\ge4grp5c.qnc",

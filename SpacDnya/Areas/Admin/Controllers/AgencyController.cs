@@ -44,7 +44,6 @@ public class AgencyController(SpacDnyaContext _context, IWebHostEnvironment _env
             if (!data.Photo.IsValidLength(900))
             {
                 ModelState.AddModelError("Photo", "Faylin hecmi 900-den cox olmamalidir");
-
                 return View();
             }
         }
@@ -58,9 +57,10 @@ public class AgencyController(SpacDnyaContext _context, IWebHostEnvironment _env
         {
             Name = data.Name,
             Description = data.Description,
-            CreateTime=DateTime.Now,
-            UpdateTime= DateTime.Now,
-            Image= Path.Combine("imgs", "agncs", fileName)
+            CreateTime = DateTime.Now,
+            UpdateTime = DateTime.Now,
+            Image = Path.Combine("imgs", "agncs", fileName),
+            
         };
         await _context.Agencies.AddAsync(agency);   
         await _context.SaveChangesAsync();
@@ -102,6 +102,7 @@ public class AgencyController(SpacDnyaContext _context, IWebHostEnvironment _env
         if (id == null) return BadRequest();
         var cat = await _context.Agencies.FindAsync(id);
         if (cat is null) return NotFound();
+        System.IO.File.Delete(Path.Combine(_env.WebRootPath, cat.Image));
         _context.Remove(cat);
         await _context.SaveChangesAsync();
         return RedirectToAction("Index");
