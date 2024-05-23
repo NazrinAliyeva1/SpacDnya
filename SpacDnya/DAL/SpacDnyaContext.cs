@@ -1,9 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using SpacDnya.Models;
 
 namespace SpacDnya.DAL
 {
-    public class SpacDnyaContext:DbContext
+    public class SpacDnyaContext:IdentityDbContext<AppUser>
     {
 
         public SpacDnyaContext(DbContextOptions options) : base(options)
@@ -11,5 +12,6 @@ namespace SpacDnya.DAL
 
         }
         public DbSet<Agency> Agencies { get; set; }
+        public DbSet<AppUser>AppUsers { get; set; }
     }
 }
