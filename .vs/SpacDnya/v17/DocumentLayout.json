@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\99455\\Desktop\\SpacDnya\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|c:\\users\\99455\\desktop\\spacdnya\\spacdnya\\areas\\admin\\views\\agency\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\areas\\admin\\views\\agency\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|c:\\users\\99455\\desktop\\spacdnya\\spacdnya\\areas\\admin\\views\\agency\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\areas\\admin\\views\\agency\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|c:\\users\\99455\\desktop\\spacdnya\\spacdnya\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|c:\\users\\99455\\desktop\\spacdnya\\spacdnya\\areas\\admin\\views\\agency\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\areas\\admin\\views\\agency\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|c:\\users\\99455\\desktop\\spacdnya\\spacdnya\\viewmodels\\agencies\\getagencyvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\viewmodels\\agencies\\getagencyvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|c:\\users\\99455\\desktop\\spacdnya\\spacdnya\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|c:\\users\\99455\\desktop\\spacdnya\\spacdnya\\viewmodels\\agencies\\getagencyadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\viewmodels\\agencies\\getagencyadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|c:\\users\\99455\\desktop\\spacdnya\\spacdnya\\areas\\admin\\views\\agency\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\areas\\admin\\views\\agency\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|C:\\Users\\99455\\Desktop\\SpacDnya\\spacdnya\\areas\\admin\\controllers\\agencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|c:\\users\\99455\\desktop\\spacdnya\\spacdnya\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|C:\\Users\\99455\\Desktop\\SpacDnya\\spacdnya\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|c:\\users\\99455\\desktop\\spacdnya\\spacdnya\\areas\\admin\\views\\agency\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\areas\\admin\\views\\agency\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|c:\\users\\99455\\desktop\\spacdnya\\spacdnya\\dal\\spacdnyacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\dal\\spacdnyacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|c:\\users\\99455\\desktop\\spacdnya\\spacdnya\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|c:\\users\\99455\\desktop\\spacdnya\\spacdnya\\areas\\admin\\controllers\\agencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\areas\\admin\\controllers\\agencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|c:\\users\\99455\\desktop\\spacdnya\\spacdnya\\viewmodels\\agencies\\createagencyadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\viewmodels\\agencies\\createagencyadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|c:\\users\\99455\\desktop\\spacdnya\\spacdnya\\models\\agency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\models\\agency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|c:\\users\\99455\\desktop\\spacdnya\\spacdnya\\extentions\\fileextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\extentions\\fileextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|C:\\Users\\99455\\Desktop\\SpacDnya\\spacdnya\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1D71E33-7584-412B-A1C6-5B286C231D70}|SpacDnya\\SpacDnya.csproj|solutionrelative:spacdnya\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 202,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,136 +66,145 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Areas\\Admin\\Views\\Agency\\Update.cshtml",
-              "RelativeDocumentMoniker": "SpacDnya\\Areas\\Admin\\Views\\Agency\\Update.cshtml",
-              "ToolTip": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Areas\\Admin\\Views\\Agency\\Update.cshtml",
-              "RelativeToolTip": "SpacDnya\\Areas\\Admin\\Views\\Agency\\Update.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SpacDnya\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SpacDnya\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAswDwAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T15:10:02.414Z",
+              "WhenOpened": "2024-05-24T02:33:12.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SpacDnya\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SpacDnya\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T02:32:40.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Areas\\Admin\\Views\\Agency\\Create.cshtml",
-              "RelativeDocumentMoniker": "SpacDnya\\Areas\\Admin\\Views\\Agency\\Create.cshtml",
-              "ToolTip": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Areas\\Admin\\Views\\Agency\\Create.cshtml",
-              "RelativeToolTip": "SpacDnya\\Areas\\Admin\\Views\\Agency\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Areas\\Admin\\Views\\Agency\\Update.cshtml",
+              "RelativeDocumentMoniker": "SpacDnya\\Areas\\Admin\\Views\\Agency\\Update.cshtml",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Areas\\Admin\\Views\\Agency\\Update.cshtml",
+              "RelativeToolTip": "SpacDnya\\Areas\\Admin\\Views\\Agency\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T15:09:55.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Areas\\Admin\\Views\\Agency\\Index.cshtml",
-              "RelativeDocumentMoniker": "SpacDnya\\Areas\\Admin\\Views\\Agency\\Index.cshtml",
-              "ToolTip": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Areas\\Admin\\Views\\Agency\\Index.cshtml",
-              "RelativeToolTip": "SpacDnya\\Areas\\Admin\\Views\\Agency\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T15:08:59.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetAgencyAdminVM.cs",
-              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\ViewModels\\Agencies\\GetAgencyAdminVM.cs",
-              "RelativeDocumentMoniker": "SpacDnya\\ViewModels\\Agencies\\GetAgencyAdminVM.cs",
-              "ToolTip": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\ViewModels\\Agencies\\GetAgencyAdminVM.cs",
-              "RelativeToolTip": "SpacDnya\\ViewModels\\Agencies\\GetAgencyAdminVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T14:35:24.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetAgencyVM.cs",
-              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\ViewModels\\Agencies\\GetAgencyVM.cs",
-              "RelativeDocumentMoniker": "SpacDnya\\ViewModels\\Agencies\\GetAgencyVM.cs",
-              "ToolTip": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\ViewModels\\Agencies\\GetAgencyVM.cs",
-              "RelativeToolTip": "SpacDnya\\ViewModels\\Agencies\\GetAgencyVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T14:35:21.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SpacDnya\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SpacDnya\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T06:54:30.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Agency.cs",
-              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Models\\Agency.cs",
-              "RelativeDocumentMoniker": "SpacDnya\\Models\\Agency.cs",
-              "ToolTip": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Models\\Agency.cs",
-              "RelativeToolTip": "SpacDnya\\Models\\Agency.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T12:33:38.361Z",
+              "WhenOpened": "2024-05-24T02:30:31.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CreateAgencyAdminVM.cs",
-              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\ViewModels\\Agencies\\CreateAgencyAdminVM.cs",
-              "RelativeDocumentMoniker": "SpacDnya\\ViewModels\\Agencies\\CreateAgencyAdminVM.cs",
-              "ToolTip": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\ViewModels\\Agencies\\CreateAgencyAdminVM.cs",
-              "RelativeToolTip": "SpacDnya\\ViewModels\\Agencies\\CreateAgencyAdminVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAcAAAA",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Areas\\Admin\\Views\\Agency\\Create.cshtml",
+              "RelativeDocumentMoniker": "SpacDnya\\Areas\\Admin\\Views\\Agency\\Create.cshtml",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Areas\\Admin\\Views\\Agency\\Create.cshtml",
+              "RelativeToolTip": "SpacDnya\\Areas\\Admin\\Views\\Agency\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T02:30:10.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Areas\\Admin\\Views\\Agency\\Index.cshtml",
+              "RelativeDocumentMoniker": "SpacDnya\\Areas\\Admin\\Views\\Agency\\Index.cshtml",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Areas\\Admin\\Views\\Agency\\Index.cshtml",
+              "RelativeToolTip": "SpacDnya\\Areas\\Admin\\Views\\Agency\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T02:29:45.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpacDnyaContext.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\DAL\\SpacDnyaContext.cs",
+              "RelativeDocumentMoniker": "SpacDnya\\DAL\\SpacDnyaContext.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\DAL\\SpacDnyaContext.cs",
+              "RelativeToolTip": "SpacDnya\\DAL\\SpacDnyaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T11:23:14.526Z",
+              "WhenOpened": "2024-05-24T02:29:07.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "SpacDnya\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Models\\AppUser.cs",
+              "RelativeToolTip": "SpacDnya\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:28:56.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SpacDnya\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SpacDnya\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:27:18.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "FileExtention.cs",
               "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Extentions\\FileExtention.cs",
               "RelativeDocumentMoniker": "SpacDnya\\Extentions\\FileExtention.cs",
               "ToolTip": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Extentions\\FileExtention.cs",
               "RelativeToolTip": "SpacDnya\\Extentions\\FileExtention.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T11:15:12.456Z",
+              "WhenOpened": "2024-05-24T02:12:09.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "AgencyController.cs",
               "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Areas\\Admin\\Controllers\\AgencyController.cs",
               "RelativeDocumentMoniker": "SpacDnya\\Areas\\Admin\\Controllers\\AgencyController.cs",
               "ToolTip": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Areas\\Admin\\Controllers\\AgencyController.cs",
               "RelativeToolTip": "SpacDnya\\Areas\\Admin\\Controllers\\AgencyController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T05:28:51.585Z",
+              "WhenOpened": "2024-05-24T02:08:54.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SpacDnya\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\SpacDnya\\SpacDnya\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SpacDnya\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:26:42.313Z",
               "EditorCaption": ""
             }
           ]

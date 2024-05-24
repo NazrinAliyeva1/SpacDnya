@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpacDnya")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19efbcb7195f757bd4ec63c1bff721616d1d5d45")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d814f8fcbd4d8319e5cd1cf7ab1a2a4126ea1648")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpacDnya")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpacDnya")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

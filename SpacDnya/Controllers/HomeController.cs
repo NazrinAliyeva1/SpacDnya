@@ -11,7 +11,7 @@ namespace SpacDnya.Controllers
 
         public HomeController(SpacDnyaContext _context)
         {
-            this._context = _context;
+            _context = _context;
         }
 
         public async Task<IActionResult> Index()
